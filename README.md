@@ -2,7 +2,7 @@
 
 With the react component structure, you can navigate between articles with one click.
 
-[**Go Live**](https://burakkrt.github.io/landing-page-javascript/)
+[**Go Live**](https://react-tab-index.netlify.app)
 
 ## Technologies used and dependencies
 
